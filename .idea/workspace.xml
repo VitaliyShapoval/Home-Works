@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e53e4a6-3bde-41de-b3c5-87a0ae2f9f15" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.php" beforeDir="false" afterPath="$PROJECT_DIR$/14.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,8 +17,8 @@
       <file leaf-file-name="14.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/14.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -125,12 +112,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581281514962</updated>
-      <workItem from="1581281516200" duration="12016000" />
+      <workItem from="1581281516200" duration="13590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12016000" />
+    <option name="totallyTimeSpent" value="13590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="43" width="1400" height="757" extended-state="0" />
@@ -271,8 +258,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/14.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
