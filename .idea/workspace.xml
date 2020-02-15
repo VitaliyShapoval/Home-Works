@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e53e4a6-3bde-41de-b3c5-87a0ae2f9f15" name="Default" comment="" />
+    <list default="true" id="6e53e4a6-3bde-41de-b3c5-87a0ae2f9f15" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/14.php" beforeDir="false" afterPath="$PROJECT_DIR$/14.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,17 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="14.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/14.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -109,16 +101,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581281514962</updated>
-      <workItem from="1581281516200" duration="13590000" />
+      <workItem from="1581281516200" duration="19097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13590000" />
+    <option name="totallyTimeSpent" value="19097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="43" width="1400" height="757" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -255,8 +246,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/14.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="30">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
         </state>
       </provider>
     </entry>
